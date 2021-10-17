@@ -4,7 +4,7 @@ title = Mechanics Netbook
 
 package.name = mechanicsnetbook
 
-package.domain = org.wiseplat
+package.domain = org.santyagoratkovskih
 
 source.dir =.
 
@@ -12,9 +12,9 @@ version = 1.0
 
 requirements = python3,kivy==2.0.0,kivymd,https://github.com/kivymd/KivyMD/archive/3274d62.zip,sdl2_ttf==2.0.15
 
-presplash.filename = %(source.dir)s/data/logo/presplash512okmin.png
+#presplash.filename = %(source.dir)s/data/logo/presplash512okmin.png
 
-icon.filename = %(source.dir)s/data/logo/logo512min.png
+#icon.filename = %(source.dir)s/data/logo/logo512min.png
 
 orientation = all
 
