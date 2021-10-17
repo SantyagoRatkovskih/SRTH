@@ -8,7 +8,7 @@ package.domain = org.SantyagoRatkovskih
 
 source.dir =.
 
-version = 1.0
+version = 0.1
 
 requirements = python3,kivy==2.0.0,kivymd,https://github.com/kivymd/KivyMD/archive/3274d62.zip,sdl2_ttf==2.0.15
 
