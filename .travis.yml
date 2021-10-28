@@ -6,5 +6,5 @@ python:
   - 3.8
 
 install:
+  - sudo apt -y download python3-distutils
   - sudo apt -y install python3-distutils
-
