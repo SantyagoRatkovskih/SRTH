@@ -1,6 +1,6 @@
 os: linux
 dist: focal
-language: python
+language: minimal
 
 python:
   - 3.8
