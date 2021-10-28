@@ -4,6 +4,3 @@ language: python
 
 python:
   - 3.8
-
-install:
-  - sudo apt -y download python3-distutils
