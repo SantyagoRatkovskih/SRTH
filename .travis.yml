@@ -3,4 +3,8 @@ dist: focal
 language: python
 
 python:
- - 3.8
+  - 3.8
+
+install:
+  - sudo apt -y install python3-distutils
+  - sudo apt -y install python3-pip
