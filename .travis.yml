@@ -1,4 +1,3 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+os: linux
+dist: focal
+language: python
