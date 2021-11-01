@@ -19,6 +19,6 @@ script
 install:
   - sudo apt -y install python3-distutils
   - sudo apt -y install python3-pip
-  - sudo apt install -y git
+  - sudo apt -y install git
   - git clone https: //github.com/kivy/buildozer.git
   - python3 -m site
