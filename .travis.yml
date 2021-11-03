@@ -1,9 +1,3 @@
-os: linux
-dist: focal
 language: python
-
-python:
- -3.8
-
-install:
- -python3.8
+os:
+ -linux
