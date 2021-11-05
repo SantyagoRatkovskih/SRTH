@@ -6,6 +6,7 @@ dist: trusty
 python: 2.7
 
 install:
-  -sudo app -y install python3-distutils
-  -sudo app -y install python3-pip
-  -sudo app -y install -y git
+  - sudo app -y install python3-distutils
+  - sudo app -y install python3-pip
+  - sudo app -y install -y git
+  - git clone https://github.com/kivy/buildozer.git
