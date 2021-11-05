@@ -3,5 +3,4 @@ os: linux
 arch: amd64
 dist: trusty
 
-python: 
-  -3.1
+python: 3.7
