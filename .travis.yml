@@ -3,4 +3,9 @@ os: linux
 arch: amd64
 dist: trusty
 
-python: 3.8
+python: 2.7
+
+install:
+  -sudo app -y install python3-distutils
+  -sudo app -y install python3-pip
+  -sudo app -y install -y git
