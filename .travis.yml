@@ -3,7 +3,7 @@ os: linux
 arch: amd64
 dist: trusty
 
-python: 3.8
+python: 3.7
 
 install:
   $ cd/tmp/
