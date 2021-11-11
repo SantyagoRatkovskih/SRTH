@@ -6,4 +6,5 @@ python:
   - 3.8
 
 install:
-	pip install --user https://github.com/kivy/buildozer/archive/master.zip
+  - sudo apt -y install python3-distutils
+  pip install --user https://github.com/kivy/buildozer/archive/master.zip
